@@ -1,4 +1,13 @@
+*******************************************************************************************************************************
+## 01 2020 Alex FOrk
+## modifiactions made are for specific hardware.
+** Added 3 led (RGB) for polution level in Barcelona. Reading the ourly data with an external python script. **
+** WIP who's at home. does an arp scan to see if my mother in law is at home (might go for a beer if she is) **
+** Snowboy added Skippy wakeword **
+** Changed assistant indicators to use the polution leds when needed**
 
+
+*******************************************************************************************************************************
 
 # GassistPi -- Google Assistant for Single Board Computers    
 *******************************************************************************************************************************
